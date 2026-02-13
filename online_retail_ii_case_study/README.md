@@ -91,14 +91,16 @@ Key findings discovered during exploration:
 │   └── processed/
 │       └── cleaned_retail_data.csv # Final Cleaned Data
 ├── online_retail_II.ipynb          # Main Analysis Notebook
-└── README.md                       # Project Documentation```
+└── README.md                       # Project Documentation
+```
 
 ## ⚙️ How to Run
+
 Clone the repository
-Ensure the online_retail_II.csv file is located in the datasets folder
+Ensure the ```online_retail_II.csv``` file is located in the datasets folder
 Install dependencies:
 ```
 pip install pandas matplotlib seaborn
 ```
 Run the Jupyter Notebook:
-online_retail_II.ipynb
+```online_retail_II.ipynb```
