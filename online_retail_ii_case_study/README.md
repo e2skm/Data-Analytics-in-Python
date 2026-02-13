@@ -96,7 +96,7 @@ Key findings discovered during exploration:
 
 ## ⚙️ How to Run
 
-Clone the repository
+Clone the repository  
 Ensure the ```online_retail_II.csv``` file is located in the datasets folder
 Install dependencies:
 ```
