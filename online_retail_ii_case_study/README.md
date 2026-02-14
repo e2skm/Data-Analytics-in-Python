@@ -1,5 +1,7 @@
 # Online Retail Data Analysis
 
+>  **[🚀 View the Interactive Data Report Here](https://e2skm.github.io/Data-Analytics-in-Python/online_retail_ii_case_study/)**
+
 ## 📌 Project Overview
 This project performs a comprehensive data analysis for a UK-based online retailer to identify key growth drivers and optimize inventory management. By analyzing over 540,000 transactions, the analysis uncovers seasonal trends, top-performing products, and high-potential international markets to support actionable business recommendations.
 
